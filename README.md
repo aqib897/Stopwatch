@@ -69,7 +69,7 @@ stopwatch-app/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/stopwatch-app.git
+   git clone https://github.com/aqib897/stopwatch-app.git
    ```
 2. Open `index.html` in your browser.
 3. Use the controls to track time and laps.
